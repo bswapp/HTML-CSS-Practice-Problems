@@ -19,6 +19,8 @@
     height: 40px;
     background: #536A63;
     float: left;
+    display: inline-block;
+    
 }
 
 .logo {
@@ -35,4 +37,5 @@
     height: 40px;
     background: #536A63;
     float: right;
+    display: inline-block;
 }
